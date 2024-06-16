@@ -1,0 +1,2 @@
+1. Load the file "Overlap_pwdata.mat" and then run the script "Pw_quantification.mlx" to generate Figures 2b-d.
+2. Use the CMF data provided in the file "Fig5_data/data/Anatomical data of the retina and V1 across species.xlsx" and apply Equation (1) from the Appendix/Supplemental Material to produce Figure 2e.

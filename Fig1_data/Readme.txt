@@ -1,0 +1,1 @@
+This is the original vector graphic of Fig. 1.
